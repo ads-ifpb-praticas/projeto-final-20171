@@ -45,4 +45,4 @@ No momento da avaliação serão executados os seguintes comandos **na raiz do s
 
 O último comando deve deixar a aplicação executando sem nenhum problema. Caso haja algum problema, a nota será **0**
 
-A entrega do projeto final deve ser realizado até dia 26/10/2017 às 23h59m59s via **Github**. Qualquer alteração feita após esse horário será desconsirada
+A entrega do projeto final deve ser realizado até dia 26/10/2017 às 23h59m59s via **Github**. Qualquer alteração feita após esse horário será desconsiderada
